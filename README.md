@@ -3,7 +3,9 @@
 
 ## Overview
 
-This project documents a reproducible local large language model (LLM) deployment using `llama.cpp` with CUDA acceleration on a consumer GPU.
+This project represents a stable, real-world local LLM deployment on consumer hardware.
+Built and tuned for reliability, not just demonstration.
+Designed as a foundation for future agent systems and embodied AI workflows.
 
 The goal is stable, GPU-backed inference with a standardized launch workflow suitable for future embodied AI integration.
 
