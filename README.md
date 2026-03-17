@@ -14,7 +14,7 @@ The goal is stable, GPU-backed inference with a standardized launch workflow sui
 ## System Specifications
 
 - GPU: NVIDIA RTX 3070 Ti Laptop GPU
-- CUDA: -  12.x (verify via nvidia-smi)
+- CUDA: -  CUDA: 12.2 (verified via nvidia-smi)
 - OS: Linux Mint
 - Model: mistral-7b-instruct-v0.2.Q4_K_M.gguf
 - Context size: 4096
