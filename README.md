@@ -34,7 +34,9 @@ The goal is stable, GPU-backed inference with a standardized launch workflow sui
 ## Stable Launch Command
 
 ```bash
+
 ./bin/llama-cli \
   -m ../models/mistral-7b-instruct-v0.2.Q4_K_M.gguf \
   -ngl 40 \
-  -c 4096
+  -c 4096 \
+  -i --interactive-first
